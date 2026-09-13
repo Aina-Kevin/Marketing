@@ -1,0 +1,9 @@
+Segment,Risque churn,Catégorie dominante,Objectif marketing,Canal recommandé,Contenu / Offre,Budget recommandé (€)
+Clients occasionnels,Risque Faible,Lifestyle,Fidéliser,Email,Promotions et nouveautés Lifestyle,34129.81
+Clients occasionnels,Risque Moyen,Lifestyle,Réactiver,Email,Promotions et nouveautés Lifestyle,34129.81
+Clients occasionnels,Risque Élevé,Lifestyle,Réactiver et retenir,Email,Promotions et nouveautés Lifestyle,34129.81
+Clients à forte valeur,Risque Faible,Home,Fidéliser un client à forte valeur,Email + Online,Offres VIP et nouveautés Home,64265.33
+Clients à forte valeur,Risque Moyen,Home,Réactiver un client à forte valeur,Email + Online,Offres VIP et nouveautés Home,64265.33
+Clients réguliers à panier élevé,Risque Faible,Home,Développer le panier,Email + Online,Recommandations et produits complémentaires Home,64265.33
+Clients réguliers à panier élevé,Risque Moyen,Home,Stimuler les achats,Email + Online,Recommandations et produits complémentaires Home,64265.33
+Clients réguliers à panier élevé,Risque Élevé,Home,Retenir et réactiver,Email + Online,Recommandations et produits complémentaires Home,64265.33
