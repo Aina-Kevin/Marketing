@@ -1,0 +1,9 @@
+nom_segment,churn_risk_level,categorie_dominante,objectif_marketing,canal_recommande,contenu_offre
+Clients occasionnels,Risque Faible,Lifestyle,Fidéliser,Email,Promotions et nouveautés Lifestyle
+Clients occasionnels,Risque Moyen,Lifestyle,Réactiver,Email,Promotions et nouveautés Lifestyle
+Clients occasionnels,Risque Élevé,Lifestyle,Réactiver et retenir,Email,Promotions et nouveautés Lifestyle
+Clients à forte valeur,Risque Faible,Home,Fidéliser un client à forte valeur,Email + Online,Offres VIP et nouveautés Home
+Clients à forte valeur,Risque Moyen,Home,Réactiver un client à forte valeur,Email + Online,Offres VIP et nouveautés Home
+Clients réguliers à panier élevé,Risque Faible,Home,Développer le panier,Email + Online,Recommandations et produits complémentaires Home
+Clients réguliers à panier élevé,Risque Moyen,Home,Stimuler les achats,Email + Online,Recommandations et produits complémentaires Home
+Clients réguliers à panier élevé,Risque Élevé,Home,Retenir et réactiver,Email + Online,Recommandations et produits complémentaires Home
