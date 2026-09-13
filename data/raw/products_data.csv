@@ -1,0 +1,201 @@
+Product_ID,Product_Name,Category,Price,Brand
+101,Product_101,Electronic Accessories,25.72,Brand A
+102,Product_102,Electronic Accessories,155.32,Brand B
+103,Product_103,Lifestyle,74.44,Brand C
+104,Product_104,Electronic Accessories,44.43,Brand D
+105,Product_105,Electronic Accessories,41.69,Brand E
+106,Product_106,Electronic Accessories,74.56,Brand F
+107,Product_107,Health & Beauty,60.75,Brand G
+108,Product_108,Lifestyle,68.37,Brand H
+109,Product_109,Home,125.41,Brand I
+110,Product_110,Lifestyle,108.77,Brand J
+111,Product_111,Lifestyle,114.79,Brand A
+112,Product_112,Health & Beauty,44.89,Brand B
+113,Product_113,Home,147.65,Brand C
+114,Product_114,Sports & Travel,35.77,Brand D
+115,Product_115,Electronic Accessories,99.66,Brand E
+116,Product_116,Home,28.42,Brand F
+117,Product_117,Lifestyle,44.17,Brand G
+118,Product_118,Electronic Accessories,111.23,Brand H
+119,Product_119,Lifestyle,113.66,Brand I
+120,Product_120,Lifestyle,23.34,Brand J
+121,Product_121,Electronic Accessories,49.17,Brand A
+122,Product_122,Electronic Accessories,178.66,Brand B
+123,Product_123,Sports & Travel,68.73,Brand C
+124,Product_124,Health & Beauty,34.13,Brand D
+125,Product_125,Electronic Accessories,29.07,Brand E
+126,Product_126,Lifestyle,107.28,Brand F
+127,Product_127,Health & Beauty,54.76,Brand G
+128,Product_128,Sports & Travel,38.47,Brand H
+129,Product_129,Home,132.09,Brand I
+130,Product_130,Home,112.27,Brand J
+131,Product_131,Electronic Accessories,108.22,Brand A
+132,Product_132,Sports & Travel,179.14,Brand B
+133,Product_133,Sports & Travel,16.81,Brand C
+134,Product_134,Electronic Accessories,165.97,Brand D
+135,Product_135,Home,170.75,Brand E
+136,Product_136,Electronic Accessories,83.53,Brand F
+137,Product_137,Electronic Accessories,160.36,Brand G
+138,Product_138,Health & Beauty,67.67,Brand H
+139,Product_139,Lifestyle,134.51,Brand I
+140,Product_140,Sports & Travel,111.91,Brand J
+141,Product_141,Lifestyle,40.26,Brand A
+142,Product_142,Home,121.6,Brand B
+143,Product_143,Lifestyle,35.07,Brand C
+144,Product_144,Sports & Travel,35.66,Brand D
+145,Product_145,Home,136.0,Brand E
+146,Product_146,Sports & Travel,171.18,Brand F
+147,Product_147,Health & Beauty,62.14,Brand G
+148,Product_148,Health & Beauty,81.21,Brand H
+149,Product_149,Health & Beauty,23.49,Brand I
+150,Product_150,Health & Beauty,68.19,Brand J
+151,Product_151,Electronic Accessories,135.94,Brand A
+152,Product_152,Sports & Travel,18.99,Brand B
+153,Product_153,Lifestyle,23.6,Brand C
+154,Product_154,Lifestyle,119.42,Brand D
+155,Product_155,Electronic Accessories,87.59,Brand E
+156,Product_156,Home,90.03,Brand F
+157,Product_157,Electronic Accessories,166.86,Brand G
+158,Product_158,Home,198.51,Brand H
+159,Product_159,Lifestyle,117.01,Brand I
+160,Product_160,Home,161.63,Brand J
+161,Product_161,Electronic Accessories,49.37,Brand A
+162,Product_162,Lifestyle,36.91,Brand B
+163,Product_163,Electronic Accessories,176.81,Brand C
+164,Product_164,Home,143.59,Brand D
+165,Product_165,Sports & Travel,127.37,Brand E
+166,Product_166,Sports & Travel,60.08,Brand F
+167,Product_167,Health & Beauty,89.56,Brand G
+168,Product_168,Home,23.22,Brand H
+169,Product_169,Electronic Accessories,60.31,Brand I
+170,Product_170,Electronic Accessories,44.72,Brand J
+171,Product_171,Home,146.55,Brand A
+172,Product_172,Electronic Accessories,133.03,Brand B
+173,Product_173,Lifestyle,84.86,Brand C
+174,Product_174,Health & Beauty,8.48,Brand D
+175,Product_175,Sports & Travel,158.79,Brand E
+176,Product_176,Home,191.78,Brand F
+177,Product_177,Lifestyle,38.32,Brand G
+178,Product_178,Home,170.81,Brand H
+179,Product_179,Sports & Travel,175.51,Brand I
+180,Product_180,Sports & Travel,66.93,Brand J
+181,Product_181,Home,49.24,Brand A
+182,Product_182,Lifestyle,146.86,Brand B
+183,Product_183,Home,26.05,Brand C
+184,Product_184,Electronic Accessories,60.53,Brand D
+185,Product_185,Health & Beauty,76.27,Brand E
+186,Product_186,Electronic Accessories,116.86,Brand F
+187,Product_187,Lifestyle,105.83,Brand G
+188,Product_188,Health & Beauty,73.14,Brand H
+189,Product_189,Home,141.94,Brand I
+190,Product_190,Electronic Accessories,71.47,Brand J
+191,Product_191,Home,72.63,Brand A
+192,Product_192,Sports & Travel,83.98,Brand B
+193,Product_193,Health & Beauty,82.31,Brand C
+194,Product_194,Lifestyle,141.36,Brand D
+195,Product_195,Lifestyle,73.73,Brand E
+196,Product_196,Electronic Accessories,29.15,Brand F
+197,Product_197,Lifestyle,141.36,Brand G
+198,Product_198,Home,29.88,Brand H
+199,Product_199,Home,44.44,Brand I
+200,Product_200,Home,175.52,Brand J
+201,Product_201,Sports & Travel,104.65,Brand A
+202,Product_202,Sports & Travel,71.25,Brand B
+203,Product_203,Sports & Travel,168.39,Brand C
+204,Product_204,Sports & Travel,173.37,Brand D
+205,Product_205,Health & Beauty,38.43,Brand E
+206,Product_206,Electronic Accessories,158.29,Brand F
+207,Product_207,Sports & Travel,125.99,Brand G
+208,Product_208,Lifestyle,48.43,Brand H
+209,Product_209,Home,189.17,Brand I
+210,Product_210,Lifestyle,18.83,Brand J
+211,Product_211,Electronic Accessories,67.46,Brand A
+212,Product_212,Home,88.31,Brand B
+213,Product_213,Home,142.77,Brand C
+214,Product_214,Home,22.11,Brand D
+215,Product_215,Lifestyle,134.57,Brand E
+216,Product_216,Sports & Travel,122.73,Brand F
+217,Product_217,Electronic Accessories,60.38,Brand G
+218,Product_218,Lifestyle,102.17,Brand H
+219,Product_219,Home,114.33,Brand I
+220,Product_220,Lifestyle,57.08,Brand J
+221,Product_221,Electronic Accessories,19.72,Brand A
+222,Product_222,Sports & Travel,104.58,Brand B
+223,Product_223,Home,30.2,Brand C
+224,Product_224,Health & Beauty,82.54,Brand D
+225,Product_225,Lifestyle,22.39,Brand E
+226,Product_226,Health & Beauty,47.44,Brand F
+227,Product_227,Electronic Accessories,86.7,Brand G
+228,Product_228,Electronic Accessories,106.77,Brand H
+229,Product_229,Home,22.31,Brand I
+230,Product_230,Electronic Accessories,48.63,Brand J
+231,Product_231,Health & Beauty,26.35,Brand A
+232,Product_232,Lifestyle,93.86,Brand B
+233,Product_233,Home,63.77,Brand C
+234,Product_234,Home,41.68,Brand D
+235,Product_235,Sports & Travel,15.08,Brand E
+236,Product_236,Home,170.5,Brand F
+237,Product_237,Lifestyle,146.02,Brand G
+238,Product_238,Electronic Accessories,131.04,Brand H
+239,Product_239,Home,91.35,Brand I
+240,Product_240,Lifestyle,27.08,Brand J
+241,Product_241,Electronic Accessories,93.39,Brand A
+242,Product_242,Lifestyle,74.03,Brand B
+243,Product_243,Home,92.68,Brand C
+244,Product_244,Electronic Accessories,77.42,Brand D
+245,Product_245,Lifestyle,79.55,Brand E
+246,Product_246,Electronic Accessories,27.07,Brand F
+247,Product_247,Lifestyle,15.36,Brand G
+248,Product_248,Home,26.83,Brand H
+249,Product_249,Electronic Accessories,48.0,Brand I
+250,Product_250,Lifestyle,48.93,Brand J
+251,Product_251,Sports & Travel,40.47,Brand A
+252,Product_252,Electronic Accessories,56.57,Brand B
+253,Product_253,Lifestyle,36.02,Brand C
+254,Product_254,Electronic Accessories,39.87,Brand D
+255,Product_255,Lifestyle,51.02,Brand E
+256,Product_256,Health & Beauty,44.57,Brand F
+257,Product_257,Health & Beauty,76.47,Brand G
+258,Product_258,Health & Beauty,95.91,Brand H
+259,Product_259,Sports & Travel,166.39,Brand I
+260,Product_260,Home,103.05,Brand J
+261,Product_261,Home,100.35,Brand A
+262,Product_262,Lifestyle,27.6,Brand B
+263,Product_263,Health & Beauty,97.4,Brand C
+264,Product_264,Electronic Accessories,140.42,Brand D
+265,Product_265,Home,171.8,Brand E
+266,Product_266,Electronic Accessories,53.64,Brand F
+267,Product_267,Health & Beauty,44.9,Brand G
+268,Product_268,Lifestyle,24.37,Brand H
+269,Product_269,Electronic Accessories,170.23,Brand I
+270,Product_270,Health & Beauty,34.3,Brand J
+271,Product_271,Health & Beauty,62.83,Brand A
+272,Product_272,Electronic Accessories,40.12,Brand B
+273,Product_273,Home,163.52,Brand C
+274,Product_274,Health & Beauty,25.14,Brand D
+275,Product_275,Electronic Accessories,148.55,Brand E
+276,Product_276,Lifestyle,66.25,Brand F
+277,Product_277,Lifestyle,90.89,Brand G
+278,Product_278,Lifestyle,47.76,Brand H
+279,Product_279,Lifestyle,133.59,Brand I
+280,Product_280,Home,155.58,Brand J
+281,Product_281,Home,80.54,Brand A
+282,Product_282,Sports & Travel,110.34,Brand B
+283,Product_283,Sports & Travel,33.67,Brand C
+284,Product_284,Home,44.69,Brand D
+285,Product_285,Home,113.73,Brand E
+286,Product_286,Lifestyle,99.68,Brand F
+287,Product_287,Health & Beauty,59.28,Brand G
+288,Product_288,Sports & Travel,105.98,Brand H
+289,Product_289,Home,152.32,Brand I
+290,Product_290,Home,181.95,Brand J
+291,Product_291,Electronic Accessories,78.95,Brand A
+292,Product_292,Health & Beauty,57.4,Brand B
+293,Product_293,Health & Beauty,90.16,Brand C
+294,Product_294,Electronic Accessories,91.61,Brand D
+295,Product_295,Home,97.35,Brand E
+296,Product_296,Health & Beauty,78.52,Brand F
+297,Product_297,Sports & Travel,159.39,Brand G
+298,Product_298,Electronic Accessories,136.72,Brand H
+299,Product_299,Electronic Accessories,31.52,Brand I
+300,Product_300,Home,100.98,Brand J
